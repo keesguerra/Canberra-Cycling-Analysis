@@ -6,14 +6,14 @@ My analysis of Canberra's cordon count data revealed a cycling network character
 
 The data makes it clear that Civic is the primary hub for cycling traffic in Canberra. The total cyclist count in the Civic town centre is overwhelmingly higher than all other town centres combined, establishing it as the core of the network.
 
-[Busiest Town Centre](https://github.com/user-attachments/assets/d9943566-cffc-419b-9761-e3ad65d7fcd9)
+![Busiest Town Centre](https://github.com/user-attachments/assets/d9943566-cffc-419b-9761-e3ad65d7fcd9)
 
 
 ### 2. Finding: Yearly Traffic is Stable and Predictable
 
 Across the four years of available data (2015-2018), the total number of cyclist trips recorded remained remarkably consistent. This lack of major fluctuation suggests that cycling is a mature and stable component of Canberra's transport system, not a volatile trend.
 
-[Total Cyclist Count per Year](https://github.com/user-attachments/assets/fc2d0353-bb2b-4823-9a39-ad2da4d5f92d)
+![Total Cyclist Count per Year](https://github.com/user-attachments/assets/fc2d0353-bb2b-4823-9a39-ad2da4d5f92d)
 
 
 ### 3. Finding: The Daily Commute is Balanced and Consistent

@@ -20,12 +20,12 @@ Across the four years of available data (2015-2018), the total number of cyclist
 
 When looking at the time of day, cyclist traffic is very balanced between morning (AM) and afternoon (PM) periods. While there is a slight preference for morning travel, the overall pattern points to a consistent, two-way commute.
 
-![AM vs PM Comparison] ![AM vs PM](https://github.com/user-attachments/assets/09a6fb21-c8c7-4063-8fe4-a69ed188ff0d)
+![AM vs PM](https://github.com/user-attachments/assets/09a6fb21-c8c7-4063-8fe4-a69ed188ff0d)
 
 
 This balance between AM and PM travel was not a one-off occurrence; the pattern remained stable across all four years of the study, further reinforcing the predictability of the network.
 
-![AM vs PM by Year] ![AM vs PM Cyclist Count per Year](https://github.com/user-attachments/assets/1fc9356c-1700-4adb-8b3b-397a9b3d88b1)
+![AM vs PM Cyclist Count per Year](https://github.com/user-attachments/assets/1fc9356c-1700-4adb-8b3b-397a9b3d88b1)
 
 
 ---# Canberra-Cycling-Analysis
